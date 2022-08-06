@@ -55,15 +55,19 @@ In the Worked_Code folder you will find:
 In this section, the number of dwellings types per year has been calculated and the results have been visualised using bar charts and Pandas plot function.
 
 <ins> Dwelling Types in Toronto in 2001 </ins>
+
 ![Dwelling Types in Toronto in 2001](https://github.com/RPSangil/HW-6-PyViz/blob/0ac0ae4673dd654a5183206bd1bc9f7b26ae1a3b/Images/Dwelling_Types_in_Toronto_in_2001.PNG)
 
 <ins> Dwelling Types in Toronto in 2006 </ins>
+
 ![Dwelling Types in Toronto in 2006](https://github.com/RPSangil/HW-6-PyViz/blob/0ac0ae4673dd654a5183206bd1bc9f7b26ae1a3b/Images/Dwelling_Types_in_Toronto_in_2006.PNG)
 
 <ins> Dwelling Types in Toronto in 2011 </ins>
+
 ![Dwelling Types in Toronto in 2011](https://github.com/RPSangil/HW-6-PyViz/blob/0ac0ae4673dd654a5183206bd1bc9f7b26ae1a3b/Images/Dwelling_Types_in_Toronto_in_2011.PNG)
 
 <ins> Dwelling Types in Toronto in 2016 </ins>
+
 ![Dwelling Types in Toronto in 2016](https://github.com/RPSangil/HW-6-PyViz/blob/0ac0ae4673dd654a5183206bd1bc9f7b26ae1a3b/Images/Dwelling_Types_in_Toronto_in_2016.PNG)
 
 ### Average Monthly Shelter Costs in Toronto Per Year
@@ -71,9 +75,11 @@ In this section, the number of dwellings types per year has been calculated and 
 In this section, the average monthly shelter costs for owned and rented dwellings and the average house valuse for each year were calculated and visialised using line charts.
 
 <ins> Average Monthly shelter Costs for Owned Dwellings in Toronto </ins>
+
 ![Average Monthly shelter Costs for Owned Dwellings in Toronto](https://github.com/RPSangil/HW-6-PyViz/blob/0ac0ae4673dd654a5183206bd1bc9f7b26ae1a3b/Images/Average_Monthly_Shelter_Costs_for_Owned_dwellings_in_Toronto.PNG)
 
 <ins> Average Monthly shelter Costs for Rented Dwellings in Toronto </ins>
+
 ![Average Monthly shelter Costs for Rented Dwellings in Toronto](https://github.com/RPSangil/HW-6-PyViz/blob/0ac0ae4673dd654a5183206bd1bc9f7b26ae1a3b/Images/Average_Monthly_Shelter_Costs_for_Rented_dwellings_in_Toronto.PNG)
 
 ### Average House Value per Year
@@ -81,6 +87,7 @@ In this section, the average monthly shelter costs for owned and rented dwelling
 The average house value per year has been calculated in this section. An investor may want to understand better the sales price of the rental property over time. For example, a customer will want to know if they should expect an increase or decrease in the property value over time so they can determine how long to hold the rental property. This information has been visualised as a bar chart.
 
 <ins> Average House Value in Torono </ins>
+
 ![Average House Value in Torono](https://github.com/RPSangil/HW-6-PyViz/blob/0ac0ae4673dd654a5183206bd1bc9f7b26ae1a3b/Images/Average_House_Value_in_Toronto.PNG)
 
 ### Average House Value by Neighbourhood
